@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "fiction"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "fiction"
+  },
+  {
+    "id": 3,
+    "title": "The Art of War",
+    "author": "Sun Tzu",
+    "genre": "nonfiction"
+  },
+  {
+    "id": 4,
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "poetry"
+  },
+  {
+    "id": 5,
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "fiction"
+  }
+]

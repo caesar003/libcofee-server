@@ -1,0 +1,31 @@
+{
+  "name": "libcoffee-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts",
+    "build": "tsc",
+    "serve": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caesar003/libcofee-server.git"
+  },
+  "keywords": ["coffee", "library", "literature", "books", "fiction"],
+  "author": "caesarmuksid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caesar003/libcofee-server/issues"
+  },
+  "homepage": "https://github.com/caesar003/libcofee-server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.21",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
