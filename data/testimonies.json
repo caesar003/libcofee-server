@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Sophia Johnson",
+    "star": 4.8,
+    "comment": "The coffee is amazing and the muffins are to die for! A perfect place to relax and enjoy a book.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/25.jpg"
+  },
+  {
+    "name": "Liam Smith",
+    "star": 4.9,
+    "comment": "I love working here! The WiFi is super fast and the ambiance is cozy. Highly recommend!",
+    "imgUrl": "https://randomuser.me/api/portraits/men/34.jpg"
+  },
+  {
+    "name": "Olivia Brown",
+    "star": 4.7,
+    "comment": "Such a charming spot with great coffee and an impressive collection of books. Perfect for a rainy day.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "name": "Noah Jones",
+    "star": 5.0,
+    "comment": "Best coffee shop in town! The muffins are always fresh and the atmosphere is perfect for reading or working.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/58.jpg"
+  },
+  {
+    "name": "Emma Garcia",
+    "star": 4.6,
+    "comment": "Great coffee and a cozy place to read. The WiFi is reliable for working online too.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/30.jpg"
+  },
+  {
+    "name": "Lucas Martinez",
+    "star": 4.5,
+    "comment": "I always enjoy my time here. The muffins are delicious and the coffee is top-notch.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/76.jpg"
+  },
+  {
+    "name": "Ava Lee",
+    "star": 4.9,
+    "comment": "This is my go-to spot for a good read and a great cup of coffee. Highly recommend the muffins too!",
+    "imgUrl": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "name": "Mason Davis",
+    "star": 4.7,
+    "comment": "A perfect blend of good coffee, delicious muffins, and a relaxing atmosphere. I love working from here.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/49.jpg"
+  },
+  {
+    "name": "Isabella Rodriguez",
+    "star": 4.8,
+    "comment": "A cozy and welcoming place with great coffee. The book collection is a bonus!",
+    "imgUrl": "https://randomuser.me/api/portraits/women/63.jpg"
+  },
+  {
+    "name": "Elijah Wilson",
+    "star": 4.5,
+    "comment": "The WiFi is strong and the coffee is even stronger! A great place to work and relax.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/85.jpg"
+  },
+  {
+    "name": "Mia Anderson",
+    "star": 4.7,
+    "comment": "I love the cozy vibe here. The coffee and muffins are always on point, and there's a great selection of books.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "name": "James Thompson",
+    "star": 4.8,
+    "comment": "This place has it all—great coffee, delicious muffins, and a perfect atmosphere for reading or working.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/92.jpg"
+  },
+  {
+    "name": "Amelia White",
+    "star": 4.9,
+    "comment": "A lovely spot with a fantastic book collection and the best coffee around. The muffins are a must-try!",
+    "imgUrl": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "name": "Benjamin Harris",
+    "star": 4.6,
+    "comment": "Great atmosphere for working or just relaxing with a book. The coffee and muffins are excellent.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/3.jpg"
+  },
+  {
+    "name": "Evelyn Clark",
+    "star": 4.8,
+    "comment": "The perfect place to unwind with a cup of coffee and a good book. The WiFi is also very reliable.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/47.jpg"
+  },
+  {
+    "name": "Alexander Lewis",
+    "star": 5.0,
+    "comment": "I come here to work often. The coffee is great, the WiFi is fast, and the muffins are delicious.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Charlotte Walker",
+    "star": 4.7,
+    "comment": "A cozy, welcoming spot with amazing coffee and a great selection of books. Perfect for any coffee lover.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/38.jpg"
+  },
+  {
+    "name": "Jack Young",
+    "star": 4.9,
+    "comment": "A wonderful place to work or just enjoy a good book. The coffee and muffins are always fresh and delicious.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/27.jpg"
+  },
+  {
+    "name": "Grace Hall",
+    "star": 4.8,
+    "comment": "This coffee shop is my favorite. Great coffee, yummy muffins, and a cozy place to read and relax.",
+    "imgUrl": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "name": "William Allen",
+    "star": 4.6,
+    "comment": "Fantastic place to enjoy a cup of coffee while working online. The atmosphere is perfect for productivity.",
+    "imgUrl": "https://randomuser.me/api/portraits/men/64.jpg"
+  },
+  {
+    "name": "Ella King",
+    "star": 4.7,
+    "comment": "Great coffee, lovely muffins, and a cozy place to enjoy a book or get some work done. I love coming here!",
+    "imgUrl": "https://randomuser.me/api/portraits/women/75.jpg"
+  }
+]

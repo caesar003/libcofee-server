@@ -1,12 +1,15 @@
 import express, { Request, Response } from 'express';
+import cors from 'cors'; // Import cors package
 import fs from 'fs';
 import path from 'path';
-import { Product, Person, Book } from './types';
+import { Product, Person, Book, Testimony } from './types';
 
 const app = express();
 const port = 3000;
 
-// Utility function to read JSON files
+// Use CORS middleware
+app.use(cors());
+
 const readJsonFile = <T>(filePath: string): T => {
   const fileData = fs.readFileSync(path.join(__dirname, filePath), 'utf-8');
   return JSON.parse(fileData);
@@ -91,6 +94,14 @@ app.get('/api/books/:id', (req: Request, res: Response) => {
   } else {
     res.status(404).json({ error: 'Book not found' });
   }
+});
+
+
+app.get('/api/testimony', (req: Request, res: Response) => {
+  const testimonies: Testimony[] = readJsonFile<Testimony[]>('../data/testimonies.json');
+
+  res.json(testimonies);
+
 });
 
 app.listen(port, () => {

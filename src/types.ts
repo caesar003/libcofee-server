@@ -26,3 +26,10 @@ export interface Book {
   author: string;
   genre: string;
 }
+
+export interface Testimony {
+  name: string;
+  star: number;
+  comment: string;
+  imgUrl: string;
+}
